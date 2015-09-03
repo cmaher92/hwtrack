@@ -1,14 +1,14 @@
-# hwtrack
-A simple app to keep track of school assignments
+# Election Standings
+A simple app that keeps an accurate poll on the 2016 U.S. Presidential Election.
 
 <h2>Objective</h2>  
-Allow students to easily track their upcoming assignments, tests, etc..
+Allow potential voters the opportunity to expand their knowledge and participate in a simple poll.
 
 <h2>Audience</h2>  
-Students
+Voting aged Americans
 
 <h2>Experience</h2>  
-Very simple, reminder-based, date-sorted.
+
 
 <h2>Technical</h2>  
 
